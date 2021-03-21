@@ -1,0 +1,8 @@
+1x ESP8266 + Breakout
+2x 10k Widerstand
+2x 12k Widerstand
+
+1x LM2575-3.3V LT1086 th@th-electronic.de	
+1x 330µH Spule
+2x 1N5819
+

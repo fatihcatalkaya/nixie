@@ -1,5 +1,7 @@
 (sym_lib_table
-  (lib (name ESP8266)(type Legacy)(uri D:/Downloads/kicad-ESP8266-master/kicad-ESP8266-master/ESP8266.lib)(options "")(descr ""))
-  (lib (name nixies-us)(type Legacy)(uri D:/Downloads/Eagle-and-KiCAD-Nixie-Libs-master/Eagle-and-KiCAD-Nixie-Libs-master/nixies-us.lib)(options "")(descr ""))
+  (lib (name ESP8266)(type Legacy)(uri C:/Users/Fatih/Downloads/kicad-ESP8266-master/kicad-ESP8266-master/ESP8266.lib)(options "")(descr ""))
+  (lib (name nixies-us)(type Legacy)(uri C:/Users/Fatih/Downloads/Eagle-and-KiCAD-Nixie-Libs-master/Eagle-and-KiCAD-Nixie-Libs-master/nixies-us.lib)(options "")(descr ""))
   (lib (name K155ID1)(type Legacy)(uri ${KIPRJMOD}/K155ID1.lib)(options "")(descr ""))
+  (lib (name Nixie-rescue)(type Legacy)(uri ${KIPRJMOD}/Nixie-rescue.lib)(options "")(descr ""))
+  (lib (name TPS560430)(type Legacy)(uri ${KIPRJMOD}/TPS560430.lib)(options "")(descr ""))
 )

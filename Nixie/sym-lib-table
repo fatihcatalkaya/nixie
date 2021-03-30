@@ -4,4 +4,5 @@
   (lib (name K155ID1)(type Legacy)(uri ${KIPRJMOD}/K155ID1.lib)(options "")(descr ""))
   (lib (name Nixie-rescue)(type Legacy)(uri ${KIPRJMOD}/Nixie-rescue.lib)(options "")(descr ""))
   (lib (name TPS560430)(type Legacy)(uri ${KIPRJMOD}/TPS560430.lib)(options "")(descr ""))
+  (lib (name NixieSupply5vto170vDCMBoostMini-rescue)(type Legacy)(uri C:/Users/Fatih/Downloads/NixiePowerSupply-master/NixiePowerSupply-master/KC_NixieSupply5vTo170vMini/NixieSupply5vto170vDCMBoostMini-rescue.lib)(options "")(descr ""))
 )

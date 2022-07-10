@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "nixies-us")(type "Legacy")(uri "/home/fatih/Downloads/Eagle-and-KiCAD-Nixie-Libs-master/nixies-us.mod")(options "")(descr ""))
+  (lib (name "nixiemisc")(type "Legacy")(uri "/home/fatih/Downloads/Eagle-and-KiCAD-Nixie-Libs-master/nixiemisc.mod")(options "")(descr ""))
+  (lib (name "mynixies")(type "Legacy")(uri "/home/fatih/Downloads/Eagle-and-KiCAD-Nixie-Libs-master/mynixies.mod")(options "")(descr ""))
+  (lib (name "in-16")(type "GEDA/Pcb")(uri "/home/fatih/Downloads/nixie_in16")(options "")(descr ""))
+  (lib (name "nch_psu")(type "KiCad")(uri "/home/fatih/Downloads/nch_psu")(options "")(descr ""))
+)

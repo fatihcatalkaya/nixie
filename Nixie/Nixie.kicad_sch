@@ -3421,7 +3421,7 @@
     (uuid 119f5af4-6f40-4dad-a568-cf0ab1bbe09b)
     (property "Reference" "U9" (id 0) (at 236.22 63.5 0))
     (property "Value" "NCH8200HV" (id 1) (at 236.22 66.04 0))
-    (property "Footprint" "nch_psu:NCH8200HV" (id 2) (at 246.38 77.47 0)
+    (property "Footprint" "psu:NCH8200HV" (id 2) (at 246.38 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 246.38 77.47 0)
@@ -4176,7 +4176,7 @@
       (reference "U8") (unit 1) (value "LM2575-3.3BT") (footprint "Package_TO_SOT_THT:TO-220-5_Vertical")
     )
     (path "/119f5af4-6f40-4dad-a568-cf0ab1bbe09b"
-      (reference "U9") (unit 1) (value "NCH8200HV") (footprint "nch_psu:NCH8200HV")
+      (reference "U9") (unit 1) (value "NCH8200HV") (footprint "psu:NCH8200HV")
     )
   )
 )

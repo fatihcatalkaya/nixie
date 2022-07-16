@@ -2892,7 +2892,7 @@
     (property "Value" "74HC595" (id 1) (at 86.36 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm" (id 2) (at 69.85 100.33 0)
+    (property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" (id 2) (at 69.85 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn74hc595.pdf" (id 3) (at 69.85 100.33 0)
@@ -4158,7 +4158,7 @@
       (reference "U2") (unit 1) (value "ESP-12E") (footprint "RF_Module:ESP-12E")
     )
     (path "/00000000-0000-0000-0000-00006050fca2"
-      (reference "U3") (unit 1) (value "74HC595") (footprint "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm")
+      (reference "U3") (unit 1) (value "74HC595") (footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
     )
     (path "/7caced0f-08f6-470b-b067-23373c63af8d"
       (reference "U4") (unit 1) (value "K155ID1") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")

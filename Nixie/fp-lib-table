@@ -4,4 +4,6 @@
   (lib (name "mynixies")(type "Legacy")(uri "/home/fatih/Downloads/Eagle-and-KiCAD-Nixie-Libs-master/mynixies.mod")(options "")(descr "")(disabled))
   (lib (name "in-16")(type "GEDA/Pcb")(uri "${KIPRJMOD}/in-16")(options "")(descr ""))
   (lib (name "psu")(type "KiCad")(uri "${KIPRJMOD}/psu.pretty")(options "")(descr ""))
+  (lib (name "diode")(type "KiCad")(uri "${KIPRJMOD}/diode")(options "")(descr ""))
+  (lib (name "Inductor")(type "KiCad")(uri "${KIPRJMOD}/custom_parts/Inductor.pretty")(options "")(descr ""))
 )
